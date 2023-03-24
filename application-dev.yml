@@ -1,0 +1,6 @@
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: dev
+    show-sql=true: dev
